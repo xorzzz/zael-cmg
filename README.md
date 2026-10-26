@@ -107,9 +107,3 @@ La lógica relacionada con la reproducción se concentra en `src/store/musicStor
 El diseño de referencia incluye propuestas para **escritorio y móvil** y está disponible en [Figma](https://www.figma.com/design/05aEwoLv3G2gRyxQO0nSNI/WEB-PAGES?node-id=0-1).
 
 La versión publicada puede consultarse en **[zael-cmg.netlify.app](https://zael-cmg.netlify.app/)**.
-
-## Autoría y recursos
-
-Repositorio: [@xorzzz](https://github.com/xorzzz).
-
-Los elementos gráficos, imágenes y archivos musicales utilizados en el sitio forman parte de la identidad artística de ZAEL CMG o de sus respectivos titulares. Este repositorio no incluye, por ahora, un archivo de licencia de software.
